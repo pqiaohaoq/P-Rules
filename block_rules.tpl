@@ -10,7 +10,8 @@ DOMAIN,hm.baidu.com
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cnzz.net
 DOMAIN-SUFFIX,cnzz.cn
-
+DOMAIN,adtracker.medproad.com
+DOMAIN,umeng.com
 DOMAIN-SUFFIX,wcp.taobao.com
 DOMAIN-SUFFIX,httpdns.alicdn.com
 DOMAIN-SUFFIX,httpdns.pro
