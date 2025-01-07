@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
 DOMAIN-SUFFIX,adtrafficquality.google
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,bdstatic.com
