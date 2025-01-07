@@ -48,3 +48,5 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,msftconnecttest.com
+
+PROCESS-NAME,DingTalk.exe
