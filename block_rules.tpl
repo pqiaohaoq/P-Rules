@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,wcp.taobao.com
 DOMAIN-SUFFIX,httpdns.alicdn.com
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
+DOMAIN-SUFFIX,adtrafficquality.google
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,google-analytics.com
