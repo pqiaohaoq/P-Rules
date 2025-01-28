@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,mmstat.com
+HOST,ulogs.umengcloud.com
+HOST,adashx.ut.amap.com
+HOST,optimus-ads.amap.com
