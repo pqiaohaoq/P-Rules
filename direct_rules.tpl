@@ -39,14 +39,4 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.com
 
-# Microsoft
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,msftconnecttest.com
-
 PROCESS-NAME,DingTalk.exe
