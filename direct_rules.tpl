@@ -17,8 +17,6 @@ DOMAIN-KEYWORD,tracker
 # Misc
 DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,syncthing
-DOMAIN-KEYWORD,quickconnect
-DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,alibaba-inc
 DOMAIN-KEYWORD,alibaba
 DOMAIN-KEYWORD,alipay-inc
@@ -31,12 +29,17 @@ DOMAIN-KEYWORD,9game
 DOMAIN-KEYWORD,ucweb
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,ipify.org
+PROCESS-NAME,DingTalk.exe
+
+# Synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-KEYWORD,synology
 DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,akamai.com
 
 # Apple
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.com
-
-PROCESS-NAME,DingTalk.exe
