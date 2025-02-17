@@ -14,6 +14,10 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 DOMAIN-KEYWORD,tracker
 
+# dns
+IP-CIDR,1.1.1.1/32
+IP-CIDR,1.0.0.1/32
+
 # Misc
 DOMAIN-SUFFIX,qq.com
 DOMAIN-KEYWORD,syncthing
