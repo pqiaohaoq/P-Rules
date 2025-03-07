@@ -25,3 +25,15 @@ DOMAIN-SUFFIX,mmstat.com
 HOST,ulogs.umengcloud.com
 HOST,adashx.ut.amap.com
 HOST,optimus-ads.amap.com
+DOMAIN-SUFFIX,ali-stats.jpush.cn
+
+# miui
+DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN-SUFFIX,data.mistat.xiaomi.com
+DOMAIN-SUFFIX,diagnosis.ad.xiaomi.com
+DOMAIN-SUFFIX,log.ad.xiaomi.com
+DOMAIN-SUFFIX,m.track.ad.xiaomi.com
+DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+DOMAIN-SUFFIX,api.ad.xiaomi.com
+DOMAIN-SUFFIX,tracker.ai.xiaomi.com
+grayconfig.ai.xiaomi.com
