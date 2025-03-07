@@ -808,6 +808,7 @@ DOMAIN-SUFFIX,zhanzhang.baidu.com
 DOMAIN-SUFFIX,znsv.baidu.com
 
 # taobao
+DOMAIN-SUFFIX,applog.uc.cn
 DOMAIN-SUFFIX,loggw.alipay.com
 DOMAIN-SUFFIX,loggw-ex.alipay.com
 DOMAIN-SUFFIX,loggw.alipay.com.cn
