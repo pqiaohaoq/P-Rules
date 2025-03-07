@@ -23,6 +23,9 @@ HOST,ulogs.umengcloud.com
 HOST,adashx.ut.amap.com
 HOST,optimus-ads.amap.com
 DOMAIN-SUFFIX,ali-stats.jpush.cn
+DOMAIN-SUFFIX,51gowan.com
+DOMAIN-SUFFIX,sogowan.com
+DOMAIN-SUFFIX,gowan.com
 
 # baidu
 DOMAIN-SUFFIX,bdstudynews.com
