@@ -6,10 +6,6 @@ DOMAIN,adtracker.medproad.com
 DOMAIN-SUFFIX,httpdns.alicdn.com
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
-DOMAIN-SUFFIX,adtrafficquality.google
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,mmstat.com
 HOST,ulogs.umengcloud.com
 HOST,adashx.ut.amap.com
@@ -21,6 +17,26 @@ DOMAIN-SUFFIX,ali-stats.jpush.cn
 DOMAIN-SUFFIX,51gowan.com
 DOMAIN-SUFFIX,sogowan.com
 DOMAIN-SUFFIX,gowan.com
+
+# Google
+DOMAIN-SUFFIX,adtrafficquality.google
+DOMAIN-SUFFIX,ads.google.cn
+DOMAIN-SUFFIX,adsense.google.cn
+DOMAIN-SUFFIX,adservice.google.cn
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,afs.googlesyndication.com
+DOMAIN-SUFFIX,analytics.google.com
+DOMAIN-SUFFIX,click.googleanalytics.com
+DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
+DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,googleadservices-cn.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googletagservices-cn.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,pagead2.googleadservices.com
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
 
 # 运营商广告
 DOMAIN-SUFFIX,114so.cn
