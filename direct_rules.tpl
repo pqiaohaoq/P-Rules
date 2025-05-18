@@ -34,6 +34,7 @@ DOMAIN-KEYWORD,9game
 DOMAIN-KEYWORD,ucweb
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,hifini.com
 PROCESS-NAME,DingTalk.exe
 
 # Synology
