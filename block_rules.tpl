@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,ali-stats.jpush.cn
 DOMAIN-SUFFIX,51gowan.com
 DOMAIN-SUFFIX,sogowan.com
 DOMAIN-SUFFIX,gowan.com
+DOMAIN,ads-shopping.shouqianba.com
 
 # Google
 DOMAIN-SUFFIX,adtrafficquality.google
@@ -979,9 +980,10 @@ DOMAIN-SUFFIX,wxa.wxs.qq.com
 DOMAIN-SUFFIX,wxaintpcos.wxqcloud.qq.com.cn
 DOMAIN-SUFFIX,wximg.wxs.qq.com
 DOMAIN-SUFFIX,wxsmw.wxs.qq.com
-DOMAIN-SUFFIX,wxsnsad.tc.qq.com
-DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
-DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+DOMAIN,wxsnsad.tc.qq.com
+DOMAIN,wxsnsdy.tc.qq.com
+DOMAIN,wxsnsdy.wxs.qq.com
+DOMAIN,wxsmsdy.video.qq.com
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
 DOMAIN-SUFFIX,xc.gdt.qq.com
 
@@ -995,3 +997,7 @@ DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
 DOMAIN-SUFFIX,api.ad.xiaomi.com
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 grayconfig.ai.xiaomi.com
+
+# meituan
+DOMAIN,dreport.meituan.net
+DOMAIN,data-sdk-uuid-log.d.meituan.net
