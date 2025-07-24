@@ -1,0 +1,12 @@
+DOMAIN,yt3.ggpht.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,music.youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,yt.be
