@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,music.youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,yt.be
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,youtubei
