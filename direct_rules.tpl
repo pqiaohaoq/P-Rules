@@ -44,7 +44,11 @@ DOMAIN-SUFFIX,dyndns.com
 DOMAIN-SUFFIX,akamai.com
 
 # Apple
-DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.com
+
+# *.cn
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,xn--fiqs8s
+DOMAIN-SUFFIX,xn--55qx5d
+DOMAIN-SUFFIX,xn--io0a7i
