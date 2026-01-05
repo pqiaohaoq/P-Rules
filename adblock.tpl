@@ -13,3 +13,8 @@ DOMAIN,h-adashx.ut.taobao.com
 DOMAIN-SUFFIX,adash.m.taobao.com
 DOMAIN-SUFFIX,collect.alipay.com
 DOMAIN-SUFFIX,alipaylog.com
+
+# cmbchina
+DOMAIN,log.cmbchina.com
+DOMAIN,applog.paas.cmbchina.com
+DOMAIN,jump.m.cmbchina.com
